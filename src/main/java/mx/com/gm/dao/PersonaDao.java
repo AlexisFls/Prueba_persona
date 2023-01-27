@@ -5,5 +5,5 @@ import mx.com.gm.domain.Persona;
 import org.springframework.data.repository.CrudRepository;
 //camara mi perro
 public interface PersonaDao extends CrudRepository<Persona, Long>{
-    
+    //lmadfmlsdfmlsdvmlsdv
 }
